@@ -1,0 +1,6 @@
+domains:
+- astro-starter-syrusakbary.wasmer.app
+kind: wasmer.io/App.v0
+name: syrusakbary-astro-starter-blabla
+owner: syrusakbary
+package: .
